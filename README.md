@@ -1,2 +1,2 @@
-# progate
+# tokyofreelance
 lesson.1
